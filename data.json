@@ -1,0 +1,213 @@
+[
+    {
+      "store": "STO.1",
+      "slot": "L",
+      "total_orders": 150,
+      "wrong_slot_proposals": 100
+    },
+    {
+      "store": "STO.1",
+      "slot": "M",
+      "total_orders": 150,
+      "wrong_slot_proposals": 100
+    },
+    {
+      "store": "STO.1",
+      "slot": "S",
+      "total_orders": 150,
+      "wrong_slot_proposals": 100
+    },
+    {
+      "store": "STO.2",
+      "slot": "L",
+      "total_orders": 200,
+      "wrong_slot_proposals": 120
+    },
+    {
+      "store": "STO.2",
+      "slot": "M",
+      "total_orders": 180,
+      "wrong_slot_proposals": 90
+    },
+    {
+      "store": "STO.3",
+      "slot": "S",
+      "total_orders": 160,
+      "wrong_slot_proposals": 80
+    },
+    {
+      "store": "STO.3",
+      "slot": "L",
+      "total_orders": 210,
+      "wrong_slot_proposals": 100
+    },
+    {
+        "store": "STO.1",
+        "slot": "L",
+        "total_orders": 150,
+        "wrong_slot_proposals": 100
+      },
+      {
+        "store": "STO.1",
+        "slot": "M",
+        "total_orders": 150,
+        "wrong_slot_proposals": 100
+      },
+      {
+        "store": "STO.1",
+        "slot": "S",
+        "total_orders": 150,
+        "wrong_slot_proposals": 100
+      },
+      {
+        "store": "STO.2",
+        "slot": "L",
+        "total_orders": 200,
+        "wrong_slot_proposals": 120
+      },
+      {
+        "store": "STO.2",
+        "slot": "M",
+        "total_orders": 180,
+        "wrong_slot_proposals": 90
+      },
+      {
+        "store": "STO.3",
+        "slot": "S",
+        "total_orders": 160,
+        "wrong_slot_proposals": 80
+      },
+      {
+        "store": "STO.3",
+        "slot": "L",
+        "total_orders": 210,
+        "wrong_slot_proposals": 100
+      },
+      {
+        "store": "STO.1",
+        "slot": "L",
+        "total_orders": 150,
+        "wrong_slot_proposals": 100
+      },
+      {
+        "store": "STO.1",
+        "slot": "M",
+        "total_orders": 150,
+        "wrong_slot_proposals": 100
+      },
+      {
+        "store": "STO.1",
+        "slot": "S",
+        "total_orders": 150,
+        "wrong_slot_proposals": 100
+      },
+      {
+        "store": "STO.2",
+        "slot": "L",
+        "total_orders": 200,
+        "wrong_slot_proposals": 120
+      },
+      {
+        "store": "STO.2",
+        "slot": "M",
+        "total_orders": 180,
+        "wrong_slot_proposals": 90
+      },
+      {
+        "store": "STO.3",
+        "slot": "S",
+        "total_orders": 160,
+        "wrong_slot_proposals": 80
+      },
+      {
+        "store": "STO.3",
+        "slot": "L",
+        "total_orders": 210,
+        "wrong_slot_proposals": 100
+      },
+      {
+        "store": "STO.1",
+        "slot": "L",
+        "total_orders": 150,
+        "wrong_slot_proposals": 100
+      },
+      {
+        "store": "STO.1",
+        "slot": "M",
+        "total_orders": 150,
+        "wrong_slot_proposals": 100
+      },
+      {
+        "store": "STO.1",
+        "slot": "S",
+        "total_orders": 150,
+        "wrong_slot_proposals": 100
+      },
+      {
+        "store": "STO.2",
+        "slot": "L",
+        "total_orders": 200,
+        "wrong_slot_proposals": 120
+      },
+      {
+        "store": "STO.2",
+        "slot": "M",
+        "total_orders": 180,
+        "wrong_slot_proposals": 90
+      },
+      {
+        "store": "STO.3",
+        "slot": "S",
+        "total_orders": 160,
+        "wrong_slot_proposals": 80
+      },
+      {
+        "store": "STO.3",
+        "slot": "L",
+        "total_orders": 210,
+        "wrong_slot_proposals": 100
+      },
+      {
+        "store": "STO.1",
+        "slot": "L",
+        "total_orders": 150,
+        "wrong_slot_proposals": 100
+      },
+      {
+        "store": "STO.1",
+        "slot": "M",
+        "total_orders": 150,
+        "wrong_slot_proposals": 100
+      },
+      {
+        "store": "STO.1",
+        "slot": "S",
+        "total_orders": 150,
+        "wrong_slot_proposals": 100
+      },
+      {
+        "store": "STO.2",
+        "slot": "L",
+        "total_orders": 200,
+        "wrong_slot_proposals": 120
+      },
+      {
+        "store": "STO.2",
+        "slot": "M",
+        "total_orders": 180,
+        "wrong_slot_proposals": 90
+      },
+      {
+        "store": "STO.3",
+        "slot": "S",
+        "total_orders": 160,
+        "wrong_slot_proposals": 80
+      },
+      {
+        "store": "STO.3",
+        "slot": "L",
+        "total_orders": 210,
+        "wrong_slot_proposals": 100
+      }
+  ]
+  
